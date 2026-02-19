@@ -1,6 +1,6 @@
-imporrt pandas as pd
+import pandas as pd
 #加载我们的情报（数据集）
-df = pd.read.csv(cybersecurity_intrucsion_data.csv)
+df = pd.read_csv('cybersecurity_intrucsion_data.csv')
 #执行侦察：看看数据规模
 print("[情报信息]")
 print(f"数据总行数（记录数）：{df.shape[0]}")
