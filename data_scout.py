@@ -7,3 +7,6 @@ print(f"数据总行数（记录数）：{df.shape[0]}")
 print(f"数据中总列数（特征数）：{df.shape[1]}")\
 print("\n前几条记录预览：")
 print(df.head())
+tcp_records=df[df['protocol'] == 'tcp']
+print(f"tcp的协议记录共有：{tcp_records.shape(0)}")
+print(f"tcp_records.head()")
