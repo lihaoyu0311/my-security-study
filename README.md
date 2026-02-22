@@ -16,3 +16,6 @@
 - vulnerability （n.）漏洞: 系统中的弱点
 - access (n/v) 访问/接入 ：接触资源的能力或行为
 - control (n) 控制 ：管理或限制的机制
+- protocol (n): 协议：通讯双方必须遵守的规则
+- analyzer :分析器                     例句： wireshark is a network protocol analyzer
+- 
