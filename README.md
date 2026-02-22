@@ -14,6 +14,7 @@
 - 【9】2026-02-22 ：使用tracert 命令，看到了数据包去往qq网站的路径
 - 【10】2026-02-22 :在b站观看了IP地址，子网掩码，与网关 ，了解了dns的作用把域名对应成相应的IP地址 tcp协议的三次握手与四次挥手
 - 【11】2026-02-22 ：使用nmap扫描本机，发现80端口开放，这是系统服务的“大门”
+- 【12】2026-02-22 ：分析日志，发现了7957条有失败连接尝试，占比83.453%
 - 
 ## 特工词汇库 （AGENT's glossary）
 - vulnerability （n.）漏洞: 系统中的弱点
@@ -21,4 +22,5 @@
 - control (n) 控制 ：管理或限制的机制
 - protocol (n): 协议：通讯双方必须遵守的规则
 - analyzer :分析器                     例句： wireshark is a network protocol analyzer
+- remote code execution (rce) :(远程代码执行)：攻击者能在目标系统上运行任意代码
 - 
